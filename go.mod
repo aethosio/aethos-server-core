@@ -1,3 +1,3 @@
-module github.com/aethosio/aethos-server-core/v0.1.0
+module github.com/aethosio/aethos-server-core
 
 go 1.19
